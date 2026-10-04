@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+fastf1>=3.8.3
+matplotlib
+numpy
+EOF
