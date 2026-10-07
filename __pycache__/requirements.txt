@@ -1,5 +1,4 @@
-cat > requirements.txt << 'EOF'
-fastf1>=3.8.3
-matplotlib
-numpy
-EOF
+fastf1==3.8.3
+matplotlib==3.8.2
+numpy==1.24.3
+pandas==2.1.4
